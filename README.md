@@ -7,4 +7,4 @@ This repository is where built TWRP-flashable zip files are at, go to "Releases"
 If you want to discuss about it, please join our chat rooms:
 
 * Discord: https://discord.gg/AvtdRJ3
-* Matrix: #danctnix-portingv2:matrix.org
+* Matrix: #danctnix-general:matrix.org
